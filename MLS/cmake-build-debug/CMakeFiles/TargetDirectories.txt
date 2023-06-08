@@ -1,0 +1,4 @@
+/home/kate/geant4/projects/MLS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kate/geant4/projects/MLS/cmake-build-debug/CMakeFiles/Simulation.dir
+/home/kate/geant4/projects/MLS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kate/geant4/projects/MLS/cmake-build-debug/CMakeFiles/MLS.dir
